@@ -1,4 +1,4 @@
-# employee-project-performance-analysis-python
+# 👩‍💼 Employee & Project Performance Analysis Using Python
 
 # 👩‍💼 Employee & Project Performance Analysis Using Python (Pandas & NumPy)
 
